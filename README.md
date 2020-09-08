@@ -38,10 +38,10 @@ Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflow
 
    - Utilize o formato Gherkin para a criação dos cenários;
    - Utilize o Appium como ferramenta de automatização;
- 	- A escolha da linguagem de programação é livre, porém sugerimos o Python;
- 	- É permitido o uso de frameworks, sugerimos aqui o Robot framework;
- 	- A execução deve retornar um status;
- 	- Tenha um README com as instruções relevantes sobre o projeto. Organização é muito importante!
+   - A escolha da linguagem de programação é livre, porém sugerimos o Python;
+   - É permitido o uso de frameworks, sugerimos aqui o Robot framework;
+   - A execução deve retornar um status;
+   - Tenha um README com as instruções relevantes sobre o projeto. Organização é muito importante!
 
 ### Critérios de Avaliação
 
