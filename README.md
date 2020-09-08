@@ -37,7 +37,7 @@ Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflow
 ### Informações sobre a etapa
 
    - Utilize o formato Gherkin para a criação dos cenários;
- 	- Utilize o Appium como ferramenta de automatização;
+   - Utilize o Appium como ferramenta de automatização;
  	- A escolha da linguagem de programação é livre, porém sugerimos o Python;
  	- É permitido o uso de frameworks, sugerimos aqui o Robot framework;
  	- A execução deve retornar um status;
