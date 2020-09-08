@@ -31,8 +31,8 @@ Seu desafio nessa etapa é criar um planejamento dos casos de teste que você ju
 
 Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflower:
 
-   -[APK](https://github.com/laspbr/Banking/blob/master/sunflower.apk)
-   -[DOCUMENTAÇÃO](https://github.com/android/sunflower#unsplash-api-key)
+   - [APK](https://github.com/laspbr/Banking/blob/master/sunflower.apk)
+   - [DOCUMENTAÇÃO](https://github.com/android/sunflower#unsplash-api-key)
 
 ### Informações sobre a etapa
 
